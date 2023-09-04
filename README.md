@@ -2,11 +2,11 @@
 <h3 align="center">Desarrollador Frontend React JS / Testing QA Manual</h3>
 <br/>
 
-- 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta.**
+- 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta con proyectos y trabajos que veras aquí en lo siguiente.**
 
-- 🌱 También estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. Aparte Next.js, Mongo DB, SQL.**
+- 🌱 También estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. (Aparte Next.js, Mongo DB y SQL).**
 
-- 👯 Estudiante en **Coderhouse.**
+- 👯 Estudiante en **Coderhouse. Desarrollo Front-End React JS / Sumando ahora con Testing QA Manual**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
