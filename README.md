@@ -15,8 +15,8 @@
 - 📫 Cómo contactarme **franciscopassarelli7@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3> 
-<p align="left"> 
-<a href="https://linkedin.com/in/www.linkedin.com/in/francisco-passarelli-287b5326b" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/342/689/png-clipart-linkedin-logo-icon-others-blue-text.png" alt="www.linkedin.com/in/francisco-passarelli-287b5326b" height="30" width="40" /></a>
+<p> 
+<a href="https://linkedin.com/in/www.linkedin.com/in/francisco-passarelli-287b5326b" target="blank"><img align="center" src="" alt="www.linkedin.com/in/francisco-passarelli-287b5326b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
