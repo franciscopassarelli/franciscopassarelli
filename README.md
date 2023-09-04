@@ -6,7 +6,7 @@
 
 - 🌱 También estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. (Aparte Next.js, Mongo DB y SQL).**
 
-- 👯 Estudiante en **Coderhouse. Desarrollo Front-End React JS / también ahora me sumo a Testing QA Manual.**
+- 👯 Estudiante en **Coderhouse. Desarrollo Front-End React JS / también tirándome para el lado de Testing QA Manual.**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
