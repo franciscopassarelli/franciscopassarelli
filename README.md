@@ -8,15 +8,16 @@
 
 - 👯 Estudiante en **Coderhouse**
 
-- 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de TI, adaptándome y aprendiendo nuevas tecnologías.**
+- 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
 - 💬 Pregúntame sobre **React JS y JavaScript.**
 
 - 📫 Cómo contactarme **franciscopassarelli7@gmail.com**
 
 <h3 align="left">Conéctate conmigo:</h3> 
-<p align="left">Mi linkedin:
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://raw .githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
+<p align="left">Mi Portfolio:
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
 </p>
 
 
