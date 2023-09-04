@@ -16,7 +16,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3> 
 <p>Mi linkedin:</p>
-<a href="https://linkedin.com/in/www.linkedin.com/in/francisco-passarelli-287b5326b" target="blank"><img align="center" src="" alt="www.linkedin.com/in/francisco-passarelli-287b5326b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/francisco-passarelli-287b5326b/"/></a>
 
 
 <h3 align="left">Lenguajes y herramientas:</h3>
