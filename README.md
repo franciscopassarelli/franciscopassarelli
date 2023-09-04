@@ -2,22 +2,22 @@
 <h3 align="center">Desarrollador Frontend React JS / Testing QA Manual</h3>
 <br/>
 
-- 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta**
+- 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta.**
 
 - 🌱 Actualmente estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. Aparte Next.js, Mongo DB, SQL.**
 
-- 👯 Estudiante en **Coderhouse**
+- 👯 Estudiante en **Coderhouse.**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
 - 💬 Pregúntame sobre **React JS y JavaScript.**
 
-- 📫 Cómo contactarme **franciscopassarelli7@gmail.com**
+- 📫 Cómo contactarme **franciscopassarelli7@gmail.com.**
 
 <h3 align="left">Conéctate conmigo:</h3> 
 <p align="left">Mi Portfolio:
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40"/></a>/>dasdasdasdasdasd</a>
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>/></a>
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40"/></a>
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40"/></a>
 </p>
 
 
