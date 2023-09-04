@@ -4,7 +4,7 @@
 
 - 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta.**
 
-- 🌱 Actualmente estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. Aparte Next.js, Mongo DB, SQL.**
+- 🌱 También estudio y aprendo **Tecnicatura Universitaria en Tecnologías Web. Aparte Next.js, Mongo DB, SQL.**
 
 - 👯 Estudiante en **Coderhouse.**
 
