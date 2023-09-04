@@ -15,10 +15,9 @@
 - 📫 Cómo contactarme **franciscopassarelli7@gmail.com.**
 
 <h3 align="left">Conéctate conmigo:</h3> 
-<p align="left">Mi Portfolio:
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="franciscopassarelli.github.io/Miportafolio/" height="40" width="40"/></a>
+<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="franciscopassarelli.github.io/Miportafolio/" height="40" width="40"/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="franciscopassarelli.github.io/Miportafolio/" height="40" width="40"/><a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank">Mi portfolio</a>
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank">Mi portfolio</a>
 
 </p>
 
