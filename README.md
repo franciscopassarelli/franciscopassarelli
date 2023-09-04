@@ -16,8 +16,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3> 
 <p align="left">Mi Portfolio:
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
-<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png" alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
+<a href="https://franciscopassarelli.github.io/Miportafolio/" target="blank"><img align="center"alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="40" /></a>
 </p>
 
 
