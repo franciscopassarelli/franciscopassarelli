@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Francisco Nicolás Passarelli</h1>
-<h3 align="center">Desarrollador Frontend React JS / Testing QA Manual</h3>
+<h3 align="center">Desarrollador Frontend React JS</h3>
 <br/>
 
 - 🔭 Actualmente estoy trabajando como: **Desarrollador Frontend por mi cuenta con proyectos y trabajos que veras a lo siguiente.**
