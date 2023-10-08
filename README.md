@@ -2,11 +2,11 @@
 <h3 align="center">Desarrollador Frontend React JS</h3>
 <br/>
 
-- 🔭 Actualmente adquiriendo experiencia como: **Desarrollador Frontend por mi cuenta con proyectos y trabajos que veras a lo siguiente.**
+- 🚀 Actualmente adquiriendo experiencia como: **Desarrollador Frontend contando con proyectos y trabajos que veras a lo siguiente.**
 
-- 🌱 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
+- 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
-- 🚀 Estudiante certificado con **Coderhouse. Carrera de Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.**
+- 👨🏽‍💻 Estudiante certificado con **Coderhouse. Carrera de Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
