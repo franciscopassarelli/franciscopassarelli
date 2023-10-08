@@ -4,9 +4,9 @@
 
 - 🔭 Actualmente adquiriendo experiencia como: **Desarrollador Frontend por mi cuenta con proyectos y trabajos que veras a lo siguiente.**
 
-- 🌱 También estudiante **Tecnicatura Universitaria en Tecnologías Web.**
+- 🌱 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
-- 🚀 Estudiante en **Coderhouse. Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.**
+- 🚀 Estudiante certificado con **Coderhouse. Carrera de Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
@@ -14,7 +14,7 @@
 
 - 🎾 Para cortar un poco **Entréno tenis, juego y doy clases de tenis.**
 
-- 📫 Mi Email: **franciscopassarelli7@gmail.com.**
+- 📫Siempre estoy dispuesto a charlar, ¡así que no dudes en ponerte en contacto! Mi Email: **franciscopassarelli7@gmail.com.**
 
 <h3 align="left">Conéctate conmigo también</h3> 
 <p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="franciscopassarelli.github.io/Miportafolio/" height="30" width="30"/> <a href="https://franciscopassarelli.github.io/Miportafolio/" target="_blank">Visitar mi portfolio</a>
