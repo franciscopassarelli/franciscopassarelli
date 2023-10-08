@@ -6,7 +6,7 @@
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
-- 👨🏽‍💻 Estudiante certificado con **Coderhouse. Carrera de Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.(Postman API, SQL)**
+- 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React JS / (especializandome con Next.js). También tirando hacia el área de Testing QA Manual.(Postman API, SQL).**
 
 - 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
 
