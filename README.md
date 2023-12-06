@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Frontend React JS</h3>
 <br/>
 
-- 🚀 Actualmente adquiriendo experiencia como: **Desarrollador Frontend contando con proyectos y trabajos que veras a lo siguiente.**
+- 🚀 Actualmente estoy trabajando como **Gestor de la Plataforma de Mercado Libre en Contactomaq. Y a su vez estoy desarrollando un E-commerce para la mísma empresa**
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
