@@ -2,22 +2,22 @@
 <h3 align="center">Desarrollador Frontend React JS</h3>
 <br/>
 
-- 🚀 Actualmente estoy trabajando como **Gestor de la Plataforma de Mercado Libre en Contactomaq. También desarrollando un sistema y un E-commerce para la mísma empresa.**
+- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio, luego terminé un E-commerce para la mísma empresa utilizando React JS y Node JS.**
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
-- 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React/Next.JS . **
+- 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React/Next.JS y C# . **
 
-- 🤝 Estoy disponible para **Aceptar oportunidades laborales en el mercado de IT, adaptándome y aprendiendo nuevas tecnologías.**
+- 🤝 **Busco roles que me permitan emplear y ampliar mi conocimiento en estos frameworks y lenguajes de programación, aceptando oportunidades laborales en el mercado de IT.**
 
-- 💬 Pregúntame sobre **React JS y JavaScript.**
+- 💬**Durante este tiempo, he desarrollado páginas web y sistemas para comercios, adaptando su lógica de negocio y necesidades. Además, he mejorado mis habilidades en la integración de APIs, lo que me ha capacitado para crear aplicaciones tanto en su calidad visual como funcional. Esto ha facilitado mi crecimiento hacia una posición integral en programación, tanto en el frontend como en el backend.**
 
 - 🎾 Para cortar un poco **Entréno tenis, juego y doy clases de tenis.**
 
 - 📫Siempre estoy dispuesto a charlar, ¡así que no dudes en ponerte en contacto! Mi Email: **franciscopassarelli7@gmail.com.**
 
 <h3 align="left">Conéctate conmigo también</h3> 
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="https://repositorio-git.vercel.app/" height="30" width="30"/> <a href="https://repositorio-git.vercel.app/" target="_blank">Visitar mi portfolio</a>
+<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="https://next-portfolio-app-l6sj.vercel.app/" height="30" width="30"/> <a href="https://repositorio-git.vercel.app/" target="_blank">Visitar mi portfolio</a>
 </p>
 <p align="left"><img src="https://w7.pngwing.com/pngs/555/1002/png-transparent-computer-icons-linkedin-resume-curriculum-vitae-social-media-social-media-template-text-rectangle.png"alt="https://www.linkedin.com/in/franciscopassarelli/" height="30" width="30"/> <a href="https://www.linkedin.com/in/franciscopassarelli/" target="_blank">Visitar mi Linkedin</a>
 </p>
