@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, Soy Francisco Nicolás Passarelli</h1>
-<h3 align="center">Desarrollador de software</h3>
+<h3 align="center">Desarrollador Front-End </h3>
 <br/>
 
-- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio, luego terminé un E-commerce para la mísma empresa utilizando NextJS.**
+- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio y un E-commerce utilizando NextJS.**
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
