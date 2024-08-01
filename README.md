@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador de software</h3>
 <br/>
 
-- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio, luego terminé un E-commerce para la mísma empresa utilizando React JS y Node JS.**
+- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio, luego terminé un E-commerce para la mísma empresa utilizando NextJS.**
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
