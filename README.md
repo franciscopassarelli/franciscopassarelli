@@ -10,7 +10,7 @@
 
 - 🤝 **Busco roles que me permitan emplear y ampliar mi conocimiento en estos frameworks y lenguajes de programación, aceptando oportunidades laborales en el mercado de IT.**
 
-- 💬**Durante este tiempo, he desarrollado páginas web y sistemas para comercios, adaptando su lógica de negocio y necesidades. Además, he mejorado mis habilidades en la integración de APIs, lo que me ha capacitado para crear aplicaciones tanto en su calidad visual como funcional. Esto ha facilitado mi crecimiento hacia una posición integral en programación, tanto en el frontend como en el backend.**
+- **Puedo adaptarme a distintas circunstancias y herramientas que requiera el trabajo. Tengo habilidad para analizar e interpretar requerimientos y plasmarlo con las buenas prácticas de desarrollo**.
 
 - 🎾 Para cortar un poco **Entréno tenis, juego y doy clases de tenis.**
 
