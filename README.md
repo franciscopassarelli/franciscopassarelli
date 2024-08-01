@@ -6,7 +6,7 @@
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
-- 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React/Next.JS y C# .**
+- 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React/Next.JS y Back-End.**
 
 - 🤝 **Busco roles que me permitan emplear y ampliar mi conocimiento en estos frameworks y lenguajes de programación, aceptando oportunidades laborales en el mercado de IT.**
 
