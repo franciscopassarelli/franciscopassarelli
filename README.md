@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Front-End </h3>
 <br/>
 
-- **Tengo 29 años y estoy trabajando como: Gestor de la Plataforma de Mercado Libre en una empresa llamada Contactomaq. Desarrollé un sistema para mantener mi stock del negocio y un E-commerce utilizando NextJS.**
+- ***Desarrollador JavaScript con especialización en Node.js y React.js. Comencé programación en 2022, estudiante de tecnicatura en tecnologías web. En coderhouse aprendí herramientas y lenguajes, con un enfoque en la construcción de APIs REST y la creación de soluciones frontend intuitivas.***
 
 - 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
 
