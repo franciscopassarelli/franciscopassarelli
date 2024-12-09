@@ -17,7 +17,7 @@
 - 📫Siempre estoy dispuesto a charlar, ¡así que no dudes en ponerte en contacto! Mi Email: **franciscopassarelli7@gmail.com.**
 
 <h3 align="left">Conéctate conmigo también</h3> 
-<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="https://next-portfolio-app-l6sj.vercel.app/" height="30" width="30"/> <a href="https://next-portfolio-app-l6sj.vercel.app/" target="_blank">Visitar mi portfolio</a>
+<p align="left"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgf5GvxhVHYUqV9roWJ4I4xyszcLCUHxRpxXKfx6R-5gSQuxrApw2QADJwvxF6OLnM810&usqp=CAU"alt="https://next-portfolio-app-l6sj.vercel.app/" height="30" width="30"/> <a href="https://portafolio2024-phi.vercel.app/" target="_blank">Visitar mi portfolio</a>
 </p>
 <p align="left"><img src="https://w7.pngwing.com/pngs/555/1002/png-transparent-computer-icons-linkedin-resume-curriculum-vitae-social-media-social-media-template-text-rectangle.png"alt="https://www.linkedin.com/in/franciscopassarelli/" height="30" width="30"/> <a href="https://www.linkedin.com/in/franciscopassarelli/" target="_blank">Visitar mi Linkedin</a>
 </p>
