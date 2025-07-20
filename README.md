@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, Soy Francisco Nicolás Passarelli</h1>
-<h3 align="center">Desarrollador Front-End </h3>
+<h3 align="center">Programador Fullstack</h3>
 <br/>
 
 - ***🎓 Programadaor y estudiante de la Tecnicatura en Tecnologías Web en la Universidad Nacional del Oeste, me especialízo en frontend y backend orientado en JavaScript y Node.JS.***
