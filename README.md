@@ -10,7 +10,7 @@
 
 - **Puedo adaptarme a distintas circunstancias y herramientas que requiera el trabajo. Tengo habilidad para analizar e interpretar requerimientos y plasmarlo con las buenas prácticas de desarrollo**.
 
-- 🎾 Para cortar un poco **Entréno tenis, juego y doy clases de tenis.**
+- 🎾 Para cortar un poco **Entréno tenis, juego y doy clases de tenis.** 
 
 - 📫Siempre estoy dispuesto a charlar, ¡así que no dudes en ponerte en contacto! Mi Email: **franciscopassarelli7@gmail.com.**
 
