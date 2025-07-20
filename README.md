@@ -2,9 +2,7 @@
 <h3 align="center">Desarrollador Front-End </h3>
 <br/>
 
-- ***Desarrollador JavaScript con especialización en Node.js y React.js. Comencé programación en 2022, estudiante de tecnicatura en tecnologías web. En coderhouse aprendí herramientas y lenguajes, con un enfoque en la construcción de APIs REST y la creación de soluciones frontend intuitivas.***
-
-- 🎓 También comenzando una **Tecnicatura Universitaria en Tecnologías Web.**
+- ***🎓 Programadaor y estudiante de la Tecnicatura en Tecnologías Web en la Universidad Nacional del Oeste, me especialízo en frontend y backend orientado en JavaScript y Node.JS.***
 
 - 👨🏽‍💻 Estudiante certificado en **Coderhouse. Carrera de Desarrollo Front-End React/Next.JS y Back-End.**
 
